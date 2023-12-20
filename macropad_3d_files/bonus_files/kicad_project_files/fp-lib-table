@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "seed_xiao_rpi_2040")(type "KiCad")(uri "${KIPRJMOD}/Seeeduino-xiao-rp2040-KiCAD-Library/XIAO_PCB.pretty")(options "")(descr ""))
+  (lib (name "Proj_Library")(type "KiCad")(uri "${KIPRJMOD}/Proj_Library.pretty")(options "")(descr ""))
+)

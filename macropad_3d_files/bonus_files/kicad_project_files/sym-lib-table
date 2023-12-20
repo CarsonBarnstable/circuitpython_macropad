@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Xiao RP2040")(type "KiCad")(uri "${KIPRJMOD}/Seeeduino-xiao-rp2040-KiCAD-Library/MOUDLE-SEEEDUINO-XIAO.kicad_sym")(options "")(descr ""))
+)
