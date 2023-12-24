@@ -4,7 +4,7 @@
 ##### *Controller Software was Partially Developed by Myself, all other Code is Not my own work.*
 
 # Overview
-Deatils
+Deatils (Ideas)
 
 # Building the Macropad
 Deatils (steps)
