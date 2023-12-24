@@ -7,7 +7,7 @@
 Deatils
 
 # Building the Macropad
-Deatils
+Deatils (steps)
 
 ### Files
 Deatils (links)
